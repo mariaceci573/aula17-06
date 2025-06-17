@@ -1,0 +1,48 @@
+.container
+ {
+    display: flex;
+    height: 300px;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+   }
+
+.conteudo-p1
+ {
+     background-color: rgb(212, 0, 255);
+     
+  
+   }
+   .interna1
+ {
+     background-color: rgb(255, 0, 221);
+    
+   }
+     .interna2
+ {
+     background-color: rgb(238, 7, 207);
+    
+   }
+   .container1
+ {
+     display: flex;
+     height: 300px;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+   }
+     .conteudo-p2
+ {
+     background-color: rgb(0, 255, 213);
+    
+   }
+     .interna01
+ {
+     background-color: rgb(39, 197, 202);
+     
+   }
+     .interna02
+ {
+     background-color: rgb(2, 202, 209);
+    
+   }
